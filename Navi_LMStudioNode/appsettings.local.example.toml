@@ -1,0 +1,8 @@
+# Copy this file to appsettings.local.toml and include machine-specific
+# overrides. ApiToken may be omitted when LM Studio authentication is disabled.
+
+[LmStudio]
+BaseUrl = "http://localhost:1234"
+Model = "model-identifier"
+ContextLength = 8192
+# ApiToken = "your-token"
