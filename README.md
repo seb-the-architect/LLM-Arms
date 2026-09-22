@@ -1,2 +1,7 @@
 # LLM-Arms
 Giving LLMs the ability to execute code
+
+What if we could give LLMs "arms" so they could actually execute code and perform functionality autonomously?
+I kind of imagine a "Jarvis in a box" kind of thing where I can talk to an LLM and it can reason about how it could perform the task I've given it with the arms it has at it's disposal.
+
+I wrote a short concept document [Navi_Network.odt] describing the general design and wrote a lot of code but got kinda discouraged when I realised that my idea wasn't very unique at all :(
