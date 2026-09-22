@@ -13,3 +13,5 @@ Here are some images from the design document which is part of the repo:
 <img width="620" height="856" alt="image" src="https://github.com/user-attachments/assets/c8b17eb2-8e89-44f3-9db8-6d4c2f15efb7" />
 
 <img width="623" height="829" alt="image" src="https://github.com/user-attachments/assets/430735bb-5007-440e-9941-e06c5d7f4418" />
+
+<img width="628" height="704" alt="image" src="https://github.com/user-attachments/assets/e544d61a-dd45-4bbf-8986-9ad34ee9f8cc" />
